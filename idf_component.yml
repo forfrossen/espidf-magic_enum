@@ -1,0 +1,4 @@
+version: "0.9.6"
+description: "This is a wrapper for magic_enum"
+url: "https://github.com/forfrossen/espidf-magic_enum.git"
+license: "MIT"
